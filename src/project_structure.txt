@@ -1,0 +1,37 @@
+
+当前项目包含以下关键文件：
+
+1. 页面文件 (pages/)
+   - index.jsx - 首页
+   - level1.jsx - 第一关
+   - level2.jsx - 第二关
+   - level3.jsx - 第三关
+   - teacher_dashboard.jsx - 教师仪表板
+   - pre_challenge.jsx - 预挑战页面
+   - level1_to_level2.jsx - 过渡页面
+   - level1_question.jsx - 第一关问题页
+
+2. 组件文件 (components/)
+   - ZooMap.jsx - 动物园地图组件
+   - StatisticsTable.jsx - 统计表格组件
+   - DrawingTools.jsx - 绘图工具组件
+   - AnswerInput.jsx - 答案输入组件
+   - VideoOverlay.jsx - 视频覆盖层组件
+
+3. 数据模型 (.datasources/)
+   - student_game_answers/ - 学生游戏答案
+   - student_completion_status/ - 学生完成状态
+   - student_medals/ - 学生勋章
+   - correct_answers/ - 正确答案
+   - incorrect_answers/ - 错误答案
+
+4. 配置文件
+   - lowcode.json - 低代码配置
+   - teaching_plan.md - 教学计划
+
+导入时请确保：
+1. 所有页面文件都上传到 pages/ 目录
+2. 所有组件文件都上传到 components/ 目录
+3. 在 CloudBase 控制台重新创建对应的数据模型
+4. 检查并重新配置所有环境变量和权限设置
+  
