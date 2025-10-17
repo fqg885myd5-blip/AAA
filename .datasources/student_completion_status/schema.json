@@ -1,0 +1,38 @@
+
+{
+  "name": "student_completion_status",
+  "title": "学生完成状态",
+  "schemas": [
+    {
+      "name": "studentId",
+      "title": "学生标识",
+      "type": "String"
+    },
+    {
+      "name": "level",
+      "title": "关卡级别",
+      "type": "String"
+    },
+    {
+      "name": "isCompleted",
+      "title": "完成状态",
+      "type": "Boolean"
+    },
+    {
+      "name": "completedAt",
+      "title": "完成时间",
+      "type": "DateTime",
+      "format": "timestamp-ms"
+    },
+    {
+      "name": "classId",
+      "title": "班级ID",
+      "type": "String"
+    },
+    {
+      "name": "animalType",
+      "title": "动物类型",
+      "type": "String"
+    }
+  ]
+}

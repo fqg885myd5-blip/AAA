@@ -1,0 +1,33 @@
+
+{
+  "name": "incorrect_answers",
+  "title": "错误答案统计2",
+  "schemas": [
+    {
+      "name": "studentId",
+      "title": "学生ID",
+      "type": "String"
+    },
+    {
+      "name": "level",
+      "title": "关卡级别",
+      "type": "String"
+    },
+    {
+      "name": "answerContent",
+      "title": "答案内容",
+      "type": "String"
+    },
+    {
+      "name": "submittedAt",
+      "title": "提交时间戳",
+      "type": "DateTime",
+      "format": "timestamp-ms"
+    },
+    {
+      "name": "animalType",
+      "title": "动物类型",
+      "type": "String"
+    }
+  ]
+}

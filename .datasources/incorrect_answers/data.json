@@ -1,0 +1,17 @@
+
+[
+  {
+    "studentId": "student_1737984200000_ghi789",
+    "level": "pre_challenge",
+    "answerContent": "南偏西45°",
+    "submittedAt": 1737984200000,
+    "animalType": "熊猫馆"
+  },
+  {
+    "studentId": "student_1737984300000_jkl012",
+    "level": "level1",
+    "answerContent": "东偏南60°500米",
+    "submittedAt": 1737984300000,
+    "animalType": "熊猫馆"
+  }
+]

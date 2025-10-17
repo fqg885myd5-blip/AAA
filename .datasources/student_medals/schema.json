@@ -1,0 +1,38 @@
+
+{
+  "name": "student_medals",
+  "title": "学生勋章",
+  "schemas": [
+    {
+      "name": "studentId",
+      "title": "学生ID",
+      "type": "String"
+    },
+    {
+      "name": "level",
+      "title": "关卡编号",
+      "type": "String"
+    },
+    {
+      "name": "medalType",
+      "title": "勋章类型",
+      "type": "String"
+    },
+    {
+      "name": "earnedAt",
+      "title": "获得时间",
+      "type": "DateTime",
+      "format": "timestamp-ms"
+    },
+    {
+      "name": "relatedAnimal",
+      "title": "关联动物",
+      "type": "String"
+    },
+    {
+      "name": "classId",
+      "title": "班级ID",
+      "type": "String"
+    }
+  ]
+}

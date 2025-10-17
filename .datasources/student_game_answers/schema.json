@@ -1,0 +1,38 @@
+
+{
+  "name": "student_game_answers",
+  "title": "学生游戏答案",
+  "schemas": [
+    {
+      "name": "studentId",
+      "title": "学生ID",
+      "type": "String"
+    },
+    {
+      "name": "level",
+      "title": "关卡级别",
+      "type": "String"
+    },
+    {
+      "name": "answerContent",
+      "title": "答案内容",
+      "type": "String"
+    },
+    {
+      "name": "submittedAt",
+      "title": "提交时间戳",
+      "type": "DateTime",
+      "format": "timestamp-ms"
+    },
+    {
+      "name": "isCorrect",
+      "title": "是否正确",
+      "type": "Boolean"
+    },
+    {
+      "name": "animalType",
+      "title": "动物类型",
+      "type": "String"
+    }
+  ]
+}

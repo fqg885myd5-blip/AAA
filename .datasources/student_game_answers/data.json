@@ -1,0 +1,73 @@
+
+[
+  {
+    "_id": "answer_001",
+    "studentId": "student_1001",
+    "level": "level1",
+    "answerContent": "北偏东30°1000米",
+    "submittedAt": 1726963200000,
+    "isCorrect": true,
+    "animalType": "",
+    "createdAt": 1726963200000,
+    "updatedAt": 1726963200000,
+    "owner": "",
+    "createBy": "",
+    "updateBy": ""
+  },
+  {
+    "_id": "answer_002",
+    "studentId": "student_1002",
+    "level": "level1",
+    "answerContent": "东偏北60°1000米",
+    "submittedAt": 1726963260000,
+    "isCorrect": true,
+    "animalType": "",
+    "createdAt": 1726963260000,
+    "updatedAt": 1726963260000,
+    "owner": "",
+    "createBy": "",
+    "updateBy": ""
+  },
+  {
+    "_id": "answer_003",
+    "studentId": "student_1003",
+    "level": "level2",
+    "answerContent": "北偏西60°1500米",
+    "submittedAt": 1726963320000,
+    "isCorrect": true,
+    "animalType": "大象馆",
+    "createdAt": 1726963320000,
+    "updatedAt": 1726963320000,
+    "owner": "",
+    "createBy": "",
+    "updateBy": ""
+  },
+  {
+    "_id": "answer_004",
+    "studentId": "student_1004",
+    "level": "level2",
+    "answerContent": "南偏西70°2000米",
+    "submittedAt": 1726963380000,
+    "isCorrect": true,
+    "animalType": "斑马场",
+    "createdAt": 1726963380000,
+    "updatedAt": 1726963380000,
+    "owner": "",
+    "createBy": "",
+    "updateBy": ""
+  },
+  {
+    "_id": "answer_005",
+    "studentId": "student_1005",
+    "level": "level3",
+    "answerContent": "南偏东60°1500米",
+    "submittedAt": 1726963440000,
+    "isCorrect": true,
+    "animalType": "大象馆",
+    "createdAt": 1726963440000,
+    "updatedAt": 1726963440000,
+    "owner": "",
+    "createBy": "",
+    "updateBy": ""
+  }
+]
